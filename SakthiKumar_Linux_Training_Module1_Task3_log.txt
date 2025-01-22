@@ -1,0 +1,3 @@
+total 4
+drwxrwxr-x 2 sakthi-kumar-s sakthi-kumar-s 4096 Jan 22 21:17 dir2
+lrwxrwxrwx 1 sakthi-kumar-s sakthi-kumar-s   19 Jan 22 21:18 file3_softlink -> dir1/dir2/file3.txt
