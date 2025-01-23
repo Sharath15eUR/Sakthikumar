@@ -1,0 +1,215 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.3  23216 13924 ?        Ss   20:11   0:10 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    20:11   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    20:11   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    20:11   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    20:11   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    20:11   0:00 [rcu_tasks_trace_kthread]
+root          16  0.2  0.0      0     0 ?        S    20:11   0:10 [ksoftirqd/0]
+root          17  0.5  0.0      0     0 ?        I    20:11   0:20 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    20:11   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    20:11   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    20:11   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    20:11   0:00 [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    20:11   0:00 [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    20:11   0:01 [migration/1]
+root          24  0.0  0.0      0     0 ?        S    20:11   0:01 [ksoftirqd/1]
+root          27  0.0  0.0      0     0 ?        S    20:11   0:00 [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    20:11   0:00 [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    20:11   0:00 [migration/2]
+root          30  0.5  0.0      0     0 ?        S    20:11   0:21 [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    20:11   0:00 [kdevtmpfs]
+root          34  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-inet_]
+root          36  0.0  0.0      0     0 ?        S    20:11   0:00 [kauditd]
+root          38  0.0  0.0      0     0 ?        S    20:11   0:00 [khungtaskd]
+root          39  0.0  0.0      0     0 ?        S    20:11   0:00 [oom_reaper]
+root          40  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-write]
+root          41  0.0  0.0      0     0 ?        S    20:11   0:01 [kcompactd0]
+root          43  0.0  0.0      0     0 ?        SN   20:11   0:00 [ksmd]
+root          44  0.0  0.0      0     0 ?        SN   20:11   0:00 [khugepaged]
+root          45  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-kinte]
+root          46  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-kbloc]
+root          47  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-blkcg]
+root          48  0.0  0.0      0     0 ?        S    20:11   0:00 [irq/9-acpi]
+root          50  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-tpm_d]
+root          51  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-ata_s]
+root          52  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-md]
+root          53  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-md_bi]
+root          54  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-edac-]
+root          55  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-devfr]
+root          56  0.0  0.0      0     0 ?        S    20:11   0:00 [watchdogd]
+root          58  0.1  0.0      0     0 ?        S    20:11   0:04 [kswapd0]
+root          59  0.0  0.0      0     0 ?        S    20:11   0:00 [ecryptfs-kthread]
+root          60  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-kthro]
+root          61  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-acpi_]
+root          62  0.0  0.0      0     0 ?        S    20:11   0:00 [scsi_eh_0]
+root          63  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-scsi_]
+root          64  0.0  0.0      0     0 ?        S    20:11   0:00 [scsi_eh_1]
+root          65  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-scsi_]
+root          67  0.3  0.0      0     0 ?        I    20:11   0:12 [kworker/u6:4-flush-8:0]
+root          69  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-mld]
+root          71  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-ipv6_]
+root          79  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-kstrp]
+root          81  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/u7:0-ttm]
+root          94  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-charg]
+root         146  0.0  0.0      0     0 ?        S    20:11   0:00 [scsi_eh_2]
+root         147  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-scsi_]
+root         201  0.1  0.0      0     0 ?        S    20:11   0:05 [jbd2/sda2-8]
+root         202  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-ext4-]
+root         310  0.0  0.0      0     0 ?        S    20:11   0:00 [irq/18-vmwgfx]
+root         311  0.0  0.0      0     0 ?        I<   20:11   0:00 [kworker/R-ttm]
+root         324  0.0  0.2  30496  7596 ?        Ss   20:11   0:01 /usr/lib/systemd/systemd-udevd
+systemd+     378  0.0  0.1  17556  7040 ?        Ss   20:11   0:01 /usr/lib/systemd/systemd-oomd
+systemd+     380  0.1  0.3  23040 12672 ?        Ss   20:11   0:04 /usr/lib/systemd/systemd-resolved
+systemd+     384  0.0  0.2  91044  7296 ?        Ssl  20:11   0:00 /usr/lib/systemd/systemd-timesyncd
+root         386  0.0  0.0      0     0 ?        S    20:11   0:00 [psimon]
+root         557  0.0  0.0      0     0 ?        I<   20:12   0:00 [kworker/R-crypt]
+avahi        572  0.0  0.1   8664  4480 ?        Ss   20:12   0:00 avahi-daemon: running [sakthi-kumar-s-VirtualBox.local]
+message+     576  0.1  0.2  12184  7296 ?        Ss   20:12   0:04 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+     587  0.0  0.4 365340 14776 ?        Ssl  20:12   0:00 /usr/libexec/gnome-remote-desktop-daemon --system
+polkitd      604  0.0  0.3 399456 11524 ?        Ssl  20:12   0:02 /usr/lib/polkit-1/polkitd --no-debug
+root         612  0.0  0.2 322172  7168 ?        Ssl  20:12   0:00 /usr/libexec/power-profiles-daemon
+root         641  0.0  0.2 321960  7648 ?        Ssl  20:12   0:01 /usr/libexec/accounts-daemon
+root         649  0.0  0.0  18092  2816 ?        Ss   20:12   0:00 /usr/sbin/cron -f -P
+root         652  0.0  0.1 318616  6784 ?        Ssl  20:12   0:00 /usr/libexec/switcheroo-control
+root         655  0.0  0.2  18252  8192 ?        Ss   20:12   0:01 /usr/lib/systemd/systemd-logind
+root         660  0.0  0.3 469244 12256 ?        Ssl  20:12   0:01 /usr/libexec/udisks2/udisksd
+syslog       669  0.0  0.1 222564  4736 ?        Ssl  20:12   0:00 /usr/sbin/rsyslogd -n -iNONE
+avahi        705  0.0  0.0   8476  1548 ?        S    20:12   0:00 avahi-daemon: chroot helper
+root         713  0.0  0.4 345100 17360 ?        Ssl  20:12   0:01 /usr/sbin/NetworkManager --no-daemon
+root         714  0.0  0.1  17376  4480 ?        Ss   20:12   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         793  0.0  0.2 318296  9668 ?        Ssl  20:12   0:00 /usr/sbin/ModemManager
+root        1096  0.0  0.3  46900 11136 ?        Ss   20:12   0:00 /usr/sbin/cupsd -l
+root        1099  0.0  0.5 120912 19712 ?        Ssl  20:12   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+lp          1114  0.0  0.1  16836  6912 ?        S    20:12   0:00 /usr/lib/cups/notifier/dbus dbus://
+cups-br+    1115  0.0  0.5 268392 18688 ?        Ssl  20:12   0:00 /usr/sbin/cups-browsed
+root        1116  0.0  0.2 323492  9216 ?        Ssl  20:12   0:00 /usr/sbin/gdm3
+kernoops    1118  0.0  0.0  12744  2460 ?        Ss   20:12   0:00 /usr/sbin/kerneloops --test
+kernoops    1122  0.0  0.0  12744  2468 ?        Ss   20:12   0:00 /usr/sbin/kerneloops
+rtkit       1175  0.0  0.0  88476  3328 ?        SNsl 20:12   0:00 /usr/libexec/rtkit-daemon
+colord      1277  0.0  0.3 328696 14140 ?        Ssl  20:12   0:00 /usr/libexec/colord
+root        1318  0.1  0.2 325600  8704 ?        Ssl  20:12   0:04 /usr/libexec/upowerd
+root        1641  0.0  0.2 398720 10624 ?        Sl   20:12   0:00 gdm-session-worker [pam/gdm-password]
+sakthi-+    1654  0.1  0.3  21616 12884 ?        Ss   20:12   0:06 /usr/lib/systemd/systemd --user
+sakthi-+    1657  0.0  0.0  21456  3340 ?        S    20:12   0:00 (sd-pam)
+sakthi-+    1669  0.3  0.5 131140 20848 ?        Ssl  20:12   0:15 /usr/bin/pipewire
+sakthi-+    1672  0.0  0.1 106404  5120 ?        Ssl  20:12   0:00 /usr/bin/pipewire -c filter-chain.conf
+sakthi-+    1676  0.1  0.4 416104 15744 ?        Ssl  20:12   0:04 /usr/bin/wireplumber
+sakthi-+    1680  0.1  0.6 132352 22108 ?        Ssl  20:12   0:04 /usr/bin/pipewire-pulse
+sakthi-+    1685  0.1  0.1  11208  6780 ?        Ss   20:12   0:05 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+sakthi-+    1686  0.0  0.2 325176  9216 ?        SLsl 20:12   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+sakthi-+    1698  0.0  0.2 693724  7168 ?        Ssl  20:12   0:00 /usr/libexec/xdg-document-portal
+sakthi-+    1721  0.0  0.1 317976  5760 ?        Ssl  20:12   0:00 /usr/libexec/xdg-permission-store
+root        1728  0.0  0.0   2704  1792 ?        Ss   20:12   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+sakthi-+    1744  0.0  0.1 244336  5760 tty2     Ssl+ 20:12   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+sakthi-+    1755  0.0  0.4 306876 14464 tty2     Sl+  20:12   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+sakthi-+    1821  0.0  0.1 162652  6528 ?        Ssl  20:12   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+sakthi-+    1823  0.0  0.1 100216  5376 ?        Ssl  20:12   0:00 /usr/libexec/gnome-session-ctl --monitor
+sakthi-+    1834  0.0  0.2 322948  7424 ?        Ssl  20:12   0:00 /usr/libexec/gvfsd
+sakthi-+    1850  0.0  0.1 543144  6912 ?        Sl   20:12   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+sakthi-+    1853  0.0  0.4 676596 16256 ?        Ssl  20:12   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+sakthi-+    1890 54.7  9.9 4556184 354608 ?      Ssl  20:12  36:15 /usr/bin/gnome-shell
+sakthi-+    1893  0.0  0.2 382940  7552 ?        Sl   20:12   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+sakthi-+    1906  0.0  0.1   9608  4992 ?        S    20:12   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+sakthi-+    1959  0.0  0.1 236068  6912 ?        Sl   20:12   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+sakthi-+    1978  0.0  0.4 654728 17536 ?        Sl   20:12   0:00 /usr/libexec/gnome-shell-calendar-server
+sakthi-+    1990  0.0  1.1 1272128 42368 ?       Ssl  20:12   0:00 /usr/libexec/evolution-source-registry
+sakthi-+    1994  0.0  0.5 2538188 20824 ?       Sl   20:12   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+sakthi-+    1995  0.0  1.3 216440 49120 ?        S    20:12   0:02 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.WK5C12 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+sakthi-+    2006  0.6  0.3 397540 10756 ?        Ssl  20:12   0:26 /usr/bin/ibus-daemon --panel disable
+sakthi-+    2007  0.0  0.1 392188  6272 ?        Ssl  20:12   0:00 /usr/libexec/gsd-a11y-settings
+sakthi-+    2008  0.0  0.4 421552 16600 ?        Ssl  20:12   0:00 /usr/libexec/gsd-color
+sakthi-+    2009  0.0  0.3 440336 11136 ?        Ssl  20:12   0:00 /usr/libexec/gsd-datetime
+sakthi-+    2011  0.0  0.2 467540  7680 ?        Ssl  20:12   0:00 /usr/libexec/gsd-housekeeping
+sakthi-+    2014  0.0  0.4 420412 16844 ?        Ssl  20:12   0:00 /usr/libexec/gsd-keyboard
+sakthi-+    2022  0.0  0.6 750260 22324 ?        Ssl  20:12   0:00 /usr/libexec/gsd-media-keys
+sakthi-+    2026  0.0  0.5 605904 21184 ?        Ssl  20:12   0:00 /usr/libexec/gsd-power
+sakthi-+    2028  0.0  0.2 332312 10624 ?        Ssl  20:12   0:00 /usr/libexec/gsd-print-notifications
+sakthi-+    2030  0.0  0.1 539752  6272 ?        Ssl  20:12   0:00 /usr/libexec/gsd-rfkill
+sakthi-+    2031  0.0  0.1 318228  5760 ?        Ssl  20:12   0:00 /usr/libexec/gsd-screensaver-proxy
+sakthi-+    2032  0.0  0.2 551864 10112 ?        Ssl  20:12   0:00 /usr/libexec/gsd-sharing
+sakthi-+    2033  0.0  0.2 394488  7296 ?        Ssl  20:12   0:00 /usr/libexec/gsd-smartcard
+sakthi-+    2035  0.0  0.2 402308  9216 ?        Ssl  20:12   0:00 /usr/libexec/gsd-sound
+sakthi-+    2036  0.0  0.4 421384 17148 ?        Ssl  20:12   0:00 /usr/libexec/gsd-wacom
+sakthi-+    2050  0.0  1.6 823168 58348 ?        Sl   20:12   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+sakthi-+    2058  0.0  0.1 305620  7040 ?        Sl   20:12   0:00 /usr/libexec/gsd-disk-utility-notify
+sakthi-+    2156  0.0  0.1  39000  3840 ?        Ss   20:12   0:00 /snap/snapd-desktop-integration/178/usr/bin/snapd-desktop-integration
+sakthi-+    2165  0.0  0.1 245316  6784 ?        Sl   20:12   0:00 /usr/libexec/ibus-memconf
+sakthi-+    2173  0.0  0.2 397860  9856 ?        Ssl  20:12   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+sakthi-+    2184  0.2  0.7 430144 27532 ?        Sl   20:12   0:09 /usr/libexec/ibus-extension-gtk3
+sakthi-+    2186  0.0  0.3 424868 13696 ?        Sl   20:12   0:00 /usr/libexec/gsd-printer
+sakthi-+    2199  0.0  0.2 319096  7168 ?        Sl   20:12   0:00 /usr/libexec/ibus-portal
+sakthi-+    2240  0.0  0.6 555316 23936 ?        Sl   20:12   0:00 /usr/libexec/goa-daemon
+sakthi-+    2245  0.0  0.1 318460  6528 ?        Ssl  20:12   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+sakthi-+    2258  0.0  0.1 318440  6272 ?        Ssl  20:12   0:00 /usr/libexec/gvfs-goa-volume-monitor
+sakthi-+    2277  0.0  0.2 397796  9088 ?        Sl   20:12   0:00 /usr/libexec/goa-identity-service
+sakthi-+    2292  0.0  0.2 398044  7552 ?        Ssl  20:12   0:00 /usr/libexec/gvfs-afc-volume-monitor
+sakthi-+    2301  0.0  0.6 899396 23040 ?        Ssl  20:12   0:00 /usr/libexec/evolution-calendar-factory
+sakthi-+    2312  0.0  0.1 319428  6400 ?        Ssl  20:12   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+sakthi-+    2326  0.0  0.3 429484 12556 ?        Sl   20:12   0:00 /snap/snapd-desktop-integration/178/usr/bin/snapd-desktop-integration
+sakthi-+    2341  0.0  0.7 834088 27136 ?        Ssl  20:12   0:00 /usr/libexec/evolution-addressbook-factory
+sakthi-+    2377  0.1  0.2 245440  7296 ?        Sl   20:12   0:06 /usr/libexec/ibus-engine-simple
+sakthi-+    2400  0.0  0.1 230240  5632 ?        Ssl  20:12   0:00 /usr/libexec/dconf-service
+sakthi-+    2410  0.0  0.2 544380  8832 ?        Sl   20:12   0:00 /usr/libexec/gvfsd-trash --spawner :1.19 /org/gtk/gvfs/exec_spaw/0
+sakthi-+    2433  0.0  1.9 622584 68504 ?        Ssl  20:12   0:00 /usr/libexec/gsd-xsettings
+root        2472  0.0  0.0      0     0 ?        I<   20:12   0:00 [kworker/u7:1]
+sakthi-+    2514  0.0  0.6 2595576 21616 ?       Sl   20:12   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+sakthi-+    2526  0.0  0.3 710280 12728 ?        Ssl  20:12   0:01 /usr/libexec/xdg-desktop-portal
+sakthi-+    2544  0.0  0.1 244972  6016 ?        Ssl  20:12   0:00 /usr/libexec/gvfsd-metadata
+sakthi-+    2558  0.0  0.6 275884 23316 ?        Sl   20:12   0:00 /usr/libexec/ibus-x11
+sakthi-+    2568  0.1  0.8 957064 31516 ?        SNsl 20:12   0:04 /usr/libexec/tracker-miner-fs-3
+sakthi-+    2570  0.0  1.0 852720 37060 ?        Ssl  20:12   0:01 /usr/libexec/xdg-desktop-portal-gnome
+sakthi-+    2580  0.0  2.2 1245972 81840 ?       Sl   20:12   0:02 /usr/libexec/mutter-x11-frames
+sakthi-+    2619  0.0  0.6 426424 24028 ?        Ssl  20:13   0:00 /usr/libexec/xdg-desktop-portal-gtk
+sakthi-+    2645 14.5 10.8 11914672 385692 ?     Sl   20:13   9:35 /snap/firefox/4793/usr/lib/firefox/firefox
+sakthi-+    2819  0.0  0.8 208024 28928 ?        Sl   20:13   0:00 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -parentBuildID 20240819223648 -prefsLen 31137 -prefMapSize 252467 -appDir /snap/firefox/4793/usr/lib/firefox/browser {73ae60ce-5927-4b4d-b805-5adc7fa4e502} 2645 true socket
+sakthi-+    2845  0.4  3.5 2480288 124644 ?      Sl   20:13   0:16 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 31278 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {57cc234e-e088-4657-8ecc-e6be981ba8c2} 2645 true tab
+sakthi-+    2877  3.8 12.3 3017296 438740 ?      Sl   20:13   2:31 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 26603 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {ef2feb43-b1f0-437d-980d-f3d4e29ad778} 2645 true tab
+sakthi-+    2901  0.0  0.4 1835612 14712 ?       Sl   20:13   0:00 /usr/bin/snap userd
+sakthi-+    3066  0.1  1.8 2425840 64328 ?       Sl   20:13   0:04 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 35965 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {29834b7e-ab0a-49ab-8169-fcbd3bea6f5d} 2645 true tab
+sakthi-+    3290  0.0  1.0 342872 37632 ?        Sl   20:13   0:00 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -parentBuildID 20240819223648 -sandboxingKind 0 -prefsLen 36190 -prefMapSize 252467 -appDir /snap/firefox/4793/usr/lib/firefox/browser {c03a98e8-bbc5-4d5b-b4e5-168520a4bb66} 2645 true utility
+sakthi-+    3513  0.0  0.8 577920 31252 ?        Sl   20:13   0:01 /usr/bin/update-notifier
+sakthi-+    3611  0.6  1.9 2431892 69768 ?       Sl   20:14   0:24 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 31611 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {fc60fee0-d509-41d4-99ff-5ce5da452ba8} 2645 true tab
+sakthi-+    3713  0.0  1.7 395156 62668 ?        Sl   20:14   0:00 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -parentBuildID 20240819223648 -prefsLen 36385 -prefMapSize 252467 -appDir /snap/firefox/4793/usr/lib/firefox/browser {823ba350-a7f5-454e-a1ba-2bfe1a68efeb} 2645 true rdd
+sakthi-+    3855  8.1  6.1 2728164 219136 ?      Sl   20:15   5:07 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 31820 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {746fa412-7b8a-4e23-866a-3874f2d12807} 2645 true tab
+sakthi-+    3951  0.6  4.7 2603768 169728 ?      Sl   20:16   0:25 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 31820 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {29d509b7-2dae-41eb-9b65-385c2411bdbc} 2645 true tab
+sakthi-+    4041  0.0  1.6 2392112 57084 ?       Sl   20:17   0:02 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 15 -isForBrowser -prefsLen 31820 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {4c231145-5432-4a2c-9fb3-0517202c705a} 2645 true tab
+sakthi-+    4071  0.0  1.5 2392116 56704 ?       Sl   20:17   0:02 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 16 -isForBrowser -prefsLen 31820 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {ba917beb-2b49-456d-af01-1b052df8a18c} 2645 true tab
+sakthi-+    4346  0.0  1.5 2392112 56952 ?       Sl   20:17   0:02 /snap/firefox/4793/usr/lib/firefox/firefox -contentproc -childID 17 -isForBrowser -prefsLen 31820 -prefMapSize 252467 -jsInitLen 234852 -parentBuildID 20240819223648 -greomni /snap/firefox/4793/usr/lib/firefox/omni.ja -appomni /snap/firefox/4793/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4793/usr/lib/firefox/browser {6c51b736-a88c-4244-9e02-bda086101f98} 2645 true tab
+root        4372  0.7  0.9 1469160 32624 ?       Ssl  20:17   0:26 /usr/lib/snapd/snapd
+root        5715  0.0  0.0      0     0 ?        S    20:18   0:00 [psimon]
+root        5845  0.1  0.0      0     0 ?        I    20:20   0:05 [kworker/2:2-mm_percpu_wq]
+sakthi-+    6042  2.4  8.6 2217504 307572 ?      SLl  20:23   1:20 /usr/bin/gnome-control-center
+root        6129  0.0  0.0      0     0 ?        Z    20:23   0:00 [passwd] <defunct>
+root        6137  0.0  0.0      0     0 ?        Z    20:23   0:00 [passwd] <defunct>
+root        6138  0.0  0.0      0     0 ?        Z    20:23   0:00 [passwd] <defunct>
+root        6223  0.0  0.0      0     0 ?        Z    20:25   0:00 [passwd] <defunct>
+root        6224  0.0  0.0      0     0 ?        Z    20:25   0:00 [passwd] <defunct>
+root        6248  0.0  0.0      0     0 ?        I    20:26   0:02 [kworker/0:2-events]
+root        6948  0.0  0.0      0     0 ?        I    20:34   0:01 [kworker/1:2-events]
+root        6954  0.0  1.0 486392 38592 ?        Ssl  20:34   0:01 /usr/libexec/fwupd/fwupd
+sakthi-+    7010  1.2  6.3 2082404 227440 ?      Sl   20:35   0:33 /usr/bin/nautilus --gapplication-service
+sakthi-+    7052  0.0  0.2 396900  8320 ?        Sl   20:35   0:00 /usr/libexec/gvfsd-recent --spawner :1.19 /org/gtk/gvfs/exec_spaw/1
+root        7535  0.0  0.0      0     0 ?        I    20:45   0:00 [kworker/2:0-cgroup_destroy]
+root        7620  0.4  0.0      0     0 ?        I    21:00   0:05 [kworker/u6:1-flush-8:0]
+root        7624  0.0  0.0      0     0 ?        I<   21:00   0:01 [kworker/0:0H-kblockd]
+root        7625  0.0  0.0      0     0 ?        I    21:00   0:00 [kworker/0:1]
+root        7627  0.0  0.0      0     0 ?        I<   21:00   0:00 [kworker/2:2H-kblockd]
+root        7698  0.0  0.0      0     0 ?        I<   21:00   0:00 [kworker/1:0H-kblockd]
+root        7829  0.0  0.4  50624 15872 ?        S<s  21:00   0:00 /usr/lib/systemd/systemd-journald
+sakthi-+    7852  0.1  1.7 2882636 60900 ?       Sl   21:00   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+root        7987  0.0  0.0      0     0 ?        I<   21:05   0:00 [kworker/1:2H]
+sakthi-+    8033 31.1  7.5 2207596 268800 ?      Sl   21:07   3:24 /usr/bin/gnome-text-editor
+root        8176  0.0  0.0      0     0 ?        I<   21:09   0:00 [kworker/0:1H-kblockd]
+root        8180  0.0  0.0      0     0 ?        I    21:10   0:00 [kworker/1:0-cgroup_destroy]
+root        8325  0.6  0.0      0     0 ?        I    21:13   0:02 [kworker/u6:2-events_unbound]
+root        8393  0.1  0.0      0     0 ?        I    21:15   0:00 [kworker/2:1-events]
+sakthi-+    8463  2.2  1.5 706260 55224 ?        Ssl  21:15   0:04 /usr/libexec/gnome-terminal-server
+sakthi-+    8471  0.0  0.1  19692  4992 pts/0    Ss   21:15   0:00 bash
+sakthi-+    8616  200  0.1  22416  4608 pts/0    R+   21:18   0:00 ps aux
