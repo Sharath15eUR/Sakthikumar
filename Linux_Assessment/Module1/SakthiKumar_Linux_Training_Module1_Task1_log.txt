@@ -1,0 +1,1 @@
+-rwxrwxr-x 1 sakthi-kumar-s sakthi-kumar-s 0 Jan 22 21:16 file1.txt
