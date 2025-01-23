@@ -1,4 +1,0 @@
-total 0
--rw-rw-r-- 1 sakthi-kumar-s sakthi-kumar-s 0 Jan 22 21:19 file4.txt
--rw-rw-r-- 1 sakthi-kumar-s sakthi-kumar-s 0 Jan 22 21:19 file5.txt
--rw-rw-r-- 1 sakthi-kumar-s sakthi-kumar-s 0 Jan 22 21:19 file6.txt
