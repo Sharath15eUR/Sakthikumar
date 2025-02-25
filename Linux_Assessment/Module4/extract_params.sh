@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Module 4 Assessment Solution
 # Checking if the input file is provided
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <input_file>"
